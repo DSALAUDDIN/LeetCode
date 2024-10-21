@@ -1,43 +1,35 @@
-# LeetCode-JS
+# LeetCode-JS: Solve Coding Problems with JavaScript
 
 Welcome to my **LeetCode-JS** repository! 🚀 Here, I solve various coding problems from [LeetCode](https://leetcode.com/) using **JavaScript**. This repository is designed to improve problem-solving skills and explore different algorithms and data structures through hands-on practice.
+
+## Repository Structure
+
+Each problem solution includes:
+- Problem link
+- Problem statement
+- Assumptions
+- Intuition behind the solution
+- Approach
+- Mathematical theory (if applicable)
+- Detailed algorithm
+- Input parameters and return value description
+- Code implementation
+- Complexity analysis
+- Example
+
+## 📚 Table of Contents
+- [Problem Categories](#-problem-categories)
+   - [Arrays](#arrays)
+- [How to Run the Solutions](#-how-to-run-the-solutions)
+- [Tools & Technologies](#-tools--technologies)
+- [Contribution](#-contribution)
+- [Connect with Me](#-connect-with-me)
+- [Project Structure](#-project-structure)
 
 ## 📚 Problem Categories
 
 ### Arrays
 - Two Sum
-- Maximum Subarray
-- Merge Intervals
-
-### Strings
-- Longest Substring Without Repeating Characters
-- Valid Parentheses
-- Palindrome Substring
-
-### Linked Lists
-- Reverse Linked List
-- Merge Two Sorted Lists
-- Add Two Numbers
-
-### Trees
-- Binary Tree Inorder Traversal
-- Maximum Depth of Binary Tree
-- Same Tree
-
-### Dynamic Programming
-- Climbing Stairs
-- Best Time to Buy and Sell Stock
-- Coin Change
-
-### Graphs
-- Number of Islands
-- Clone Graph
-- Shortest Path
-
-### Others
-- Sorting and Searching Algorithms
-- Greedy Algorithms
-- Recursion and Backtracking
 
 ## 🚀 How to Run the Solutions
 

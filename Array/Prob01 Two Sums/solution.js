@@ -70,6 +70,9 @@ var twoSum = function(nums, target) {
 // Space Complexity: O(n)
 // We store up to n numbers in the map, where n is the length of the array.
 
+
+console.time('twoSum');
 console.log(twoSum([2, 7, 11, 15], 9));  // Output: [0, 1]
-console.log(twoSum([3, 2, 4], 6));      // Output: [1, 2]
-console.log(twoSum([3, 3], 6));         // Output: [0, 1]
+console.log(twoSum([3, 2, 4], 6));        // Output: [1, 2]
+console.log(twoSum([3, 3], 6));            // Output: [0, 1]
+console.timeEnd('twoSum');
